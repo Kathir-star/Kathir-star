@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Certificates-10b981?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://kathir-star.github.io/">
+<a href="https://kathir-star.github.io/portfolio_kathiravan/">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
