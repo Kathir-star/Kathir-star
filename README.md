@@ -203,7 +203,7 @@ Creative startup — custom hand-drawn portraits, personalized gifts & memory-ba
 </td>
 <td width="50%" valign="top">
 
-<h4>🌐 Portfolio Website &nbsp;<a href="https://kathir-star.github.io/"><img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square"/></a></h4>
+<h4>🌐 Portfolio Website &nbsp;<a href="https://kathir-star.github.io/portfolio_kathiravan/"><img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square"/></a></h4>
 
 Personal portfolio with dark theme, particle animations, glassmorphism cards, typewriter effect, custom cursor, and scroll reveals.
 
