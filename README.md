@@ -106,7 +106,7 @@
 
 **⚙️ Frameworks**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,tailwind&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter&theme=dark&perline=6"/>
 
 </td>
 </tr>
@@ -115,14 +115,14 @@
 
 **🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=4"/>
 
 </td>
 <td align="center" width="50%">
 
 **🧰 Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode&theme=dark&perline=4"/>
 
 </td>
 </tr>
@@ -190,7 +190,7 @@ Dual-ESP32 safety system via **ESP-NOW** — detects alcohol (MQ3), accidents (M
 <tr>
 <td width="50%" valign="top">
 
-<h4>🎨 Artlane Diaries &nbsp;<img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square"/></h4>
+<h4> Artlane Diaries &nbsp;<img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square"/></h4>
 
 Creative startup — custom hand-drawn portraits, personalized gifts & memory-based artworks. Blending emotional storytelling with intentional design.
 
@@ -254,7 +254,7 @@ const kathiravan = {
   name     : "Kathiravan",
   role     : ["ECE Student", "Full Stack Dev", "UI/UX Designer", "IoT Builder"],
   learning : ["MERN Stack", "Embedded Systems", "Advanced UI/UX"],
-  building : ["RYDEX v2", "Artlane Diaries", "Portfolio v3"],
+  building : ["RYDEXX", "Artlane Diaries", "Portfolio "],
   stack    : {
     hardware : ["ESP32", "MQ3", "MPU6050", "IR", "ESP-NOW"],
     software : ["React", "Node.js", "MongoDB", "Python", "Django"],
