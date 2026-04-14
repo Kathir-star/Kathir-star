@@ -189,6 +189,41 @@ Dual-ESP32 safety system via **ESP-NOW** — detects alcohol (MQ3), accidents (M
 </tr>
 <tr>
 <td width="50%" valign="top">
+<td width="50%" valign="top">
+
+<h4>📋 ChronixFlow &nbsp;
+<a href="https://kathir-star.github.io/chronix_Flow/">
+<img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square&logoColor=white"/>
+</a>
+</h4>
+
+Modern productivity **To-Do Web App** with clean UI, task tracking, and smooth user experience. Designed for focus, simplicity, and daily efficiency.
+
+<p>
+<img src="https://img.shields.io/badge/Productivity-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Task_Manager-3b82f6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_UI-6366f1?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>🧠 HealthNav &nbsp;
+<a href="https://healthnav-git-main-kathir-stars-projects.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square&logoColor=white"/>
+</a>
+</h4>
+
+AI-powered **health assistant web app** providing smart guidance, fitness insights, and interactive user experience with modern UI and API integration.
+
+<p>
+<img src="https://img.shields.io/badge/AI_Powered-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/HealthTech-ef4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Integration-06b6d4?style=flat-square"/>
+</p>
+
+</td>
 
 <h4> Artlane Diaries &nbsp;<img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square"/></h4>
 
