@@ -160,9 +160,13 @@
 
 <table>
 <tr>
+
+<!-- Row 1 -->
 <td width="50%" valign="top">
 
-<h4>🏋️ Level Up &nbsp;<a href="https://kathir-star.github.io/levelup.github.io/"><img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square&logoColor=white"/></a></h4>
+<h4>🏋️ Level Up &nbsp;<a href="https://kathir-star.github.io/levelup.github.io/">
+<img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square&logoColor=white"/>
+</a></h4>
 
 Self-growth fitness **PWA** with AI coach persona, Indian food database, bodyweight workout programs across goals & levels, voice I/O.
 
@@ -173,9 +177,12 @@ Self-growth fitness **PWA** with AI coach persona, Indian food database, bodywei
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h4>🪖 RYDEX Smart Helmet &nbsp;<img src="https://img.shields.io/badge/ECE_PROJECT-E7352C?style=flat-square"/></h4>
+<h4>🪖 RYDEX Smart Helmet &nbsp;
+<img src="https://img.shields.io/badge/ECE_PROJECT-E7352C?style=flat-square"/>
+</h4>
 
 Dual-ESP32 safety system via **ESP-NOW** — detects alcohol (MQ3), accidents (MPU6050), helmet state (IR). Sends real-time Telegram alerts with GPS.
 
@@ -186,9 +193,12 @@ Dual-ESP32 safety system via **ESP-NOW** — detects alcohol (MQ3), accidents (M
 </p>
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+
+<!-- Row 2 -->
 <td width="50%" valign="top">
 
 <h4>📋 ChronixFlow &nbsp;
@@ -225,7 +235,16 @@ AI-powered **health assistant web app** providing smart guidance, fitness insigh
 
 </td>
 
-<h4> Artlane Diaries &nbsp;<img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square"/></h4>
+</tr>
+
+<tr>
+
+<!-- Row 3 -->
+<td width="50%" valign="top">
+
+<h4>🎨 Artlane Diaries &nbsp;
+<img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square"/>
+</h4>
 
 Creative startup — custom hand-drawn portraits, personalized gifts & memory-based artworks. Blending emotional storytelling with intentional design.
 
@@ -236,9 +255,14 @@ Creative startup — custom hand-drawn portraits, personalized gifts & memory-ba
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h4>🌐 Portfolio Website &nbsp;<a href="https://kathir-star.github.io/portfolio_kathiravan/"><img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square"/></a></h4>
+<h4>🌐 Portfolio Website &nbsp;
+<a href="https://kathir-star.github.io/portfolio_kathiravan/">
+<img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square"/>
+</a>
+</h4>
 
 Personal portfolio with dark theme, particle animations, glassmorphism cards, typewriter effect, custom cursor, and scroll reveals.
 
@@ -249,7 +273,9 @@ Personal portfolio with dark theme, particle animations, glassmorphism cards, ty
 </p>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
