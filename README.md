@@ -243,7 +243,7 @@ AI-powered **health assistant web app** providing smart guidance, fitness insigh
 <td width="50%" valign="top">
 
 <h4>🎨 Artlane Diaries &nbsp;
-<a href="https://kathir-star.github.io/portfolio_kathiravan/">
+<a href="https://artlanediaries.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square"/>
 </a>
 </h4>
