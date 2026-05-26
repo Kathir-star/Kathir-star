@@ -181,9 +181,10 @@ Self-growth fitness **PWA** with AI coach persona, Indian food database, bodywei
 <td width="50%" valign="top">
 
 <h4>🪖 RYDEX Smart Helmet &nbsp;
+<a href="https://github.com/Kathir-star/smarthelmet">
 <img src="https://img.shields.io/badge/ECE_PROJECT-E7352C?style=flat-square"/>
 </h4>
-
+</a>
 Dual-ESP32 safety system via **ESP-NOW** — detects alcohol (MQ3), accidents (MPU6050), helmet state (IR). Sends real-time Telegram alerts with GPS.
 
 <p>
