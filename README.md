@@ -243,7 +243,9 @@ AI-powered **health assistant web app** providing smart guidance, fitness insigh
 <td width="50%" valign="top">
 
 <h4>🎨 Artlane Diaries &nbsp;
-<img src="https://img.shields.io/badge/UPCOMING-f59e0b?style=flat-square"/>
+<a href="https://kathir-star.github.io/portfolio_kathiravan/">
+<img src="https://img.shields.io/badge/LIVE-10b981?style=flat-square"/>
+</a>
 </h4>
 
 Creative startup — custom hand-drawn portraits, personalized gifts & memory-based artworks. Blending emotional storytelling with intentional design.
